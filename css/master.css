@@ -71,3 +71,33 @@ img {
 .clear {
   clear: both;
 }
+
+/* media query */
+
+@media screen and (max-width: 480px) {
+
+ .row{
+   width: 100%
+ }
+
+  #lezioni .row .left {
+  width: 100%;
+  padding-bottom: 10px;
+}
+  #lezioni .row .center {
+  width: 100%;
+}
+  #lezioni .row .right {
+  width: 100%;
+}
+  #steps .row .left {
+  width: 100%;
+  padding-bottom: 10px;
+}
+  #steps .row .central {
+  width: 100%;
+}
+  #steps .row .right {
+  width: 100%;
+}
+}
