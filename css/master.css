@@ -100,4 +100,13 @@ img {
   #steps .row .right {
   width: 100%;
 }
+ #lezioni .row img {
+   height: 100px;
+}
+  #steps .row img {
+    height: 100px;
+}
+  #why .row img {
+    height: 100px;
+}
 }
